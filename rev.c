@@ -10,7 +10,7 @@ int main()
 	while(str[i]!='\0')
 		i++;
 	while(i>=0){
-		revstr[j]=str[i];
+		revstr[j]=str[i];	//ft
 		j++;
 		i--;
 	}
